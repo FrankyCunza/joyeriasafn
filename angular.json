@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "joyeriasafn"
+    }
+  },
+  "defaultProject": "joyeriasafn",
+  "cli": {
+    "analytics": "6ad98087-b8e4-40ae-8576-cafde344d1ef"
+  }
 }
