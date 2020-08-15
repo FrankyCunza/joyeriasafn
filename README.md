@@ -28,3 +28,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 https://stackoverflow.com/questions/16904658/node-version-manager-install-nvm-command-not-found
+
+
+pm2 list
+
+pm2 show id
+
+pm2
+
+pm2 start "npm start"
+
+pm2 delete name
