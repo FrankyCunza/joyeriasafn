@@ -79,6 +79,7 @@ body {
     border-radius: 5px;
     text-align: center;
     line-height: 25px;
+    margin-left: 5px;
     color: #ffffff; }
     .header__socials__list i {
       color: #ffffff; }
@@ -175,8 +176,10 @@ body {
       width: 100%; } }
 
 .homeProducts__img {
-  width: 100%;
-  display: block; }
+  width: auto;
+  display: block;
+  max-height: 204px;
+  margin: 0 auto; }
 .homeProducts__text {
   text-align: center;
   margin-top: 5px;
@@ -190,10 +193,10 @@ body {
 .homeProducts__title {
   font-family: "Work Sans", sans-serif;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 15px;
   font-size: 18px;
   font-weight: 500;
-  margin-bottom: 5px; }
+  margin-bottom: 10px; }
 .homeProducts__price {
   margin-top: 10px;
   text-align: center;
