@@ -1,0 +1,12 @@
+.title{
+
+    &__one{
+        
+    }
+    &__two{
+        font-family: $font_one;
+        font-size: 30px;
+        padding: 0 $padding;
+        font-weight: 600;
+    }
+}

@@ -43,7 +43,10 @@ pm2 delete name
 
 
 ## Server side rendering
-
 npm run build:ssr
-
 npm run serve:ssr
+
+
+
+pm2 start dist/web-narlac/server/main.js
+node dist/web-narlac/server/main.js
