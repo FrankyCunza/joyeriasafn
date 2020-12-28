@@ -39,3 +39,11 @@ pm2
 pm2 start "npm start"
 
 pm2 delete name
+
+
+
+## Server side rendering
+
+npm run build:ssr
+
+npm run serve:ssr
